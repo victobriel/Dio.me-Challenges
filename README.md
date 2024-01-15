@@ -1,4 +1,4 @@
-# Challenger: Script de provisionamento de um servidor web (apache)
+# Challenge: Script de provisionamento de um servidor web (apache)
 
 #### Definições:
 
