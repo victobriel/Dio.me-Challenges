@@ -1,4 +1,12 @@
-####### Rules:
+Use:
+`npm install`
+to install the dependencies
+
+Use
+`npm start`
+to execute the project
+
+###### Rules:
 [ ] Crie os componentes referentes aos elementos na página inicial
 
 - Crie um componente para o header, com o título da aplicação
@@ -9,11 +17,3 @@
 
 - Ao clicar no botão, deve aparecer um alert com uma mensagem de boas vindas
 - Crie o teste unitário da função
-
-Use:
-`npm install`
-to install
-
-Use
-`npm start`
-to start
