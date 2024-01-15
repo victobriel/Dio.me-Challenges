@@ -1,4 +1,4 @@
-# Challenger: Script de criação de estrutura de usuários, diretórios e permissões
+# Challenge: Script de criação de estrutura de usuários, diretórios e permissões
 
 #### Diretórios:
 
