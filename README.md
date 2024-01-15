@@ -2,7 +2,7 @@ Use:
 `npm install`
 to install the dependencies
 
-Use
+Use:
 `npm start`
 to execute the project
 
